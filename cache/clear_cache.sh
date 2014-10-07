@@ -1,4 +1,5 @@
 #!/bin/bash
+#dsf
 DIR="$(cd "$(dirname "$0")" && pwd)"
 
 echo $DIR
