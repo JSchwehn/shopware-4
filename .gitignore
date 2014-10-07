@@ -54,3 +54,4 @@ Thumbs.db
 
 # do not submitt any plugins
 /engine/Shopware/Plugins/
+/templates/
